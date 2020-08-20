@@ -1,4 +1,4 @@
-# NoSQL DB (mongodb) Study
+#   NoSQL DB ( <img src="https://user-images.githubusercontent.com/53929665/90775792-3843e680-e334-11ea-9ab4-ec2b92921bda.png" alt="drawing" width="23"/> mongodb ) Study
 
 - MongoDB 기본
 - MongoDB 데이터분석 활용
