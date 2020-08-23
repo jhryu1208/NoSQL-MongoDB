@@ -14,9 +14,8 @@
 - [<b>MongoDB Basic</b>](https://github.com/jhryu1208/NoSQL-MongoDB/blob/master/NoSQL_MongoDB_Study/MongodDB_Basic.ipynb)
   - 빅데이터
   - NoSQL 이해
-<br>
 
-##### [목차로 이동](#contents)
+##### [<U>목차로 이동</U>](#contents)
 
 
 ## [ MongoDB Installation ]
@@ -24,9 +23,8 @@
   - MongoDB 설치 및 환경 구축
   - EC2(AWS) MongoDB 설치 (Ubuntu기반)
   - MongoDB 바로 다뤄보기
-<br>
 
-##### [목차로 이동](#contents)
+##### [<U>목차로 이동</U>](#contents)
 
 ## [ MongoDB 기본 문법 ]
 - [<b>MongoDB CRUD : by using mongodb shell</b>](http://localhost:8888/notebooks/NoSQL_MongoDB/NoSQL_MongoDB_Study/MongoDB_Basic_Grammar.ipynb)
@@ -44,8 +42,7 @@
   - pymongo : Document Read
   - pymongo : Document Update
   - pymongo : Document Delete
-<br>
 
-##### [목차로 이동](#contents)
+##### [<U>목차로 이동</U>](#contents)
 
 <U>차후 추가 예정</U>
